@@ -1,0 +1,5 @@
+What does readFile do.
+
+1. Reads all values in the file into a list, returns the list.
+- How many entries are in the list.
+- Malloc some memory.
